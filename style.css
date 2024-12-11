@@ -103,8 +103,9 @@ header {
     white-space: nowrap;
     background-color: #D6D0CF;
     padding: 100px;
-    overflow:scroll;
-    scroll-snap-align: center;
+    justify-content:center;
+    text-align: center;
+    align-content: center;
 }
 
 
